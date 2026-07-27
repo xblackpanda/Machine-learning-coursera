@@ -1,0 +1,4 @@
+Simple Train R2=0.0386
+Simple Test R2=0.0083
+Multiple Train R2=0.5279
+Multiple Test R2=0.4526
